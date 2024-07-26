@@ -73,7 +73,7 @@ footer button{
   border: none;
   outline: none;
   color: white;
-  padding: 1rem;
+  padding: 0.3rem;
   transition-duration: 200ms;
   cursor: pointer;
 }
